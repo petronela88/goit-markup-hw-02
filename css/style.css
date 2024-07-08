@@ -1,0 +1,29 @@
+
+#section3 {
+
+    
+}
+
+#section3 .portfolio {
+
+    font-size: 36px;
+    line-height: 40px;
+    color: #2E2F42;
+}
+
+#section3 .lists {
+
+    width: 360px;
+    height: 420px;
+    text-align: center;
+
+}
+
+#section3 .lists h3 {
+    color: #2E2F42;
+}
+
+#section3 .lists p {
+    color: #434455;
+}
+
