@@ -4,73 +4,131 @@ body {
     background-color: #FFFFFF;
     color: #434455;
 }
-/*
-.team {
-    background-color: #F4F4FD;
-}
-
-#section4 .portfolio {
-    line-height: 1.11px;
-    font-size: 36px;
-    line-height: 40px;
-    color: #2E2F42;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-}
-
-#section4 .lists {
-    height: 420px;
-    text-align: center;
-
-}
-
-.bnkapp {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2px;
-    letter-spacing: 0.02em;
-}
-
-.medit app {
-    font-weight: 500px;
-    font-size: 20px;
-    line-height: 1.2px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-
-.app{
-    line-height: 1.5px;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-footer {
-    background-color: #2e2f42;
-}
 
 .logo {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    text-decoration: none;
+}
+
+span {
+    color: #2e2f42;
 }
 
 .studio {
-    color:#f4f4fd;
-    line-height: 1.5;
-}
-
-
-
-.para {
-    color: #F4F4FD;
-    letter-spacing: 0.02em;
+    font-weight: 500;
     line-height: 1.5px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-*/    
+
+.studio :hover {
+    color: #404bbf;
+}
+
+.studio :focus {
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+}
+
+.contacte {
+    line-height: 1.5px;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+.contacte :hover {
+    color: #404bbf;
+}
+
+.contacte :focus {
+    color: #404bbf;
+}
+
+.section1 {
+    background-color: #2e2f42;
+}
+
+.business {
+    font-size: 56px;
+    line-height: 1.07px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.buton {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.buton :hover {
+    background-color: #404BBF;
+}
+
+.buton :focus {
+    background-color: #404BBF;
+}
+
+.titlu {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.text {
+    line-height: 1.5px;
+    letter-spacing: 0.02em;
+}
+
+.section3 {
+    background-color: #F4F4FD;
+}
+
+.team {
+    font-size: 36px;
+    line-height: 1.11px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;        
+}
+
+.people {
+    background-color: #FFFFFF;
+}
+.portfolio {
+    font-size: 36px;
+    line-height: 1.11px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.textchange {
+    color: #F4F4FD;
+}
+
+.paragraph {
+    color: #F4F4FD;
+    line-height: 1.5px;
+    letter-spacing: 0.02em;
+}
