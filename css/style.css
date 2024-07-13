@@ -34,14 +34,14 @@ span {
     color: #404bbf;
 }
 
-address {
+.address {
     font-style: normal;
 }
 
 .contacte {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #404bbf;
+    color: #434455;
 }
 
 .contacte:hover {
@@ -52,7 +52,7 @@ address {
     color: #404bbf;
 }
 
-.section1 {
+#section1 {
     background-color: #2e2f42;
 }
 
@@ -73,11 +73,11 @@ address {
     cursor: pointer;
 }
 
-.buton :hover {
+.buton:hover {
     background-color: #404BBF;
 }
 
-.buton :focus {
+.buton:focus {
     background-color: #404BBF;
 }
 
@@ -94,7 +94,7 @@ address {
     letter-spacing: 0.02em;
 }
 
-.section3 {
+#section3 {
     background-color: #F4F4FD;
 }
 
