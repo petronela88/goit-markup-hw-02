@@ -9,7 +9,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -21,7 +21,7 @@ span {
 
 .studio {
     font-weight: 500;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -39,7 +39,7 @@ span {
 }
 
 .contacte {
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #404bbf;
 }
@@ -53,12 +53,13 @@ span {
 }
 
 .section1 {
-    background-color: #2e2f42;
+    
 }
 
 .business {
+    background-color: #2e2f42;
     font-size: 56px;
-    line-height: 1.07px;
+    line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
@@ -67,7 +68,7 @@ span {
 .buton {
     background-color: #4D5AE5;
     font-weight: 500;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     cursor: pointer;
@@ -84,23 +85,24 @@ span {
 .titlu {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
 .text {
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
 .section3 {
-    background-color: #F4F4FD;
+    
 }
 
 .team {
+    background-color: #F4F4FD;
     font-size: 36px;
-    line-height: 1.11px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -112,7 +114,7 @@ span {
 }
 .portfolio {
     font-size: 36px;
-    line-height: 1.11px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -129,6 +131,6 @@ span {
 
 .paragraph {
     color: #F4F4FD;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
