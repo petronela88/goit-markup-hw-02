@@ -26,15 +26,15 @@ span {
     color: #2e2f42;
 }
 
-.studio :hover {
+.studio:hover {
     color: #404bbf;
 }
 
-.studio :focus {
+.studio:focus {
     color: #404bbf;
 }
 
-.address {
+address {
     font-style: normal;
 }
 
@@ -44,20 +44,19 @@ span {
     color: #404bbf;
 }
 
-.contacte :hover {
+.contacte:hover {
     color: #404bbf;
 }
 
-.contacte :focus {
+.contacte:focus {
     color: #404bbf;
 }
 
 .section1 {
-    
+    background-color: #2e2f42;
 }
 
 .business {
-    background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -96,11 +95,10 @@ span {
 }
 
 .section3 {
-    
+    background-color: #F4F4FD;
 }
 
 .team {
-    background-color: #F4F4FD;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
