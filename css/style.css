@@ -4,13 +4,13 @@ body {
     background-color: #FFFFFF;
     color: #434455;
 }
-#section4 {
 
-    
+/*.team {
+    background-color: #F4F4FD;
 }
 
 #section4 .portfolio {
-    line-height: 1.11;
+    line-height: 1.11px;
     font-size: 36px;
     line-height: 40px;
     color: #2E2F42;
@@ -25,24 +25,37 @@ body {
 
 }
 
-#section4 .lists h3 {
+.bnkapp {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2px;
+    letter-spacing: 0.02em;
+}
+
+.medit app {
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 1.2px;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
-#section4 .lists p {
+.app{
+    line-height: 1.5px;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
-#footer {
+footer {
     background-color: #2e2f42;
 }
 
-#footer .logo {
+.logo {
     font-family: "Raleway" sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 3%;
+    line-height: 1.17px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
@@ -55,7 +68,9 @@ body {
 
 
 
-#footer p {
+.para {
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    line-height: 1.5px;
 }
+*/    
